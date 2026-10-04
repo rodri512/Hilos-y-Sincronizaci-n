@@ -1,0 +1,15 @@
+C:\Users\Usuario\Desktop\2026\2do cuatri\SO\trabajos practicos\codigo\TP3_Hilos_C#\Punto2\Punto2\bin\Debug\net8.0\Punto2.exe
+C:\Users\Usuario\Desktop\2026\2do cuatri\SO\trabajos practicos\codigo\TP3_Hilos_C#\Punto2\Punto2\bin\Debug\net8.0\Punto2.deps.json
+C:\Users\Usuario\Desktop\2026\2do cuatri\SO\trabajos practicos\codigo\TP3_Hilos_C#\Punto2\Punto2\bin\Debug\net8.0\Punto2.runtimeconfig.json
+C:\Users\Usuario\Desktop\2026\2do cuatri\SO\trabajos practicos\codigo\TP3_Hilos_C#\Punto2\Punto2\bin\Debug\net8.0\Punto2.dll
+C:\Users\Usuario\Desktop\2026\2do cuatri\SO\trabajos practicos\codigo\TP3_Hilos_C#\Punto2\Punto2\bin\Debug\net8.0\Punto2.pdb
+C:\Users\Usuario\Desktop\2026\2do cuatri\SO\trabajos practicos\codigo\TP3_Hilos_C#\Punto2\Punto2\obj\Debug\net8.0\Punto2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\2026\2do cuatri\SO\trabajos practicos\codigo\TP3_Hilos_C#\Punto2\Punto2\obj\Debug\net8.0\Punto2.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\2026\2do cuatri\SO\trabajos practicos\codigo\TP3_Hilos_C#\Punto2\Punto2\obj\Debug\net8.0\Punto2.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\2026\2do cuatri\SO\trabajos practicos\codigo\TP3_Hilos_C#\Punto2\Punto2\obj\Debug\net8.0\Punto2.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\2026\2do cuatri\SO\trabajos practicos\codigo\TP3_Hilos_C#\Punto2\Punto2\obj\Debug\net8.0\Punto2.sourcelink.json
+C:\Users\Usuario\Desktop\2026\2do cuatri\SO\trabajos practicos\codigo\TP3_Hilos_C#\Punto2\Punto2\obj\Debug\net8.0\Punto2.dll
+C:\Users\Usuario\Desktop\2026\2do cuatri\SO\trabajos practicos\codigo\TP3_Hilos_C#\Punto2\Punto2\obj\Debug\net8.0\refint\Punto2.dll
+C:\Users\Usuario\Desktop\2026\2do cuatri\SO\trabajos practicos\codigo\TP3_Hilos_C#\Punto2\Punto2\obj\Debug\net8.0\Punto2.pdb
+C:\Users\Usuario\Desktop\2026\2do cuatri\SO\trabajos practicos\codigo\TP3_Hilos_C#\Punto2\Punto2\obj\Debug\net8.0\Punto2.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\2026\2do cuatri\SO\trabajos practicos\codigo\TP3_Hilos_C#\Punto2\Punto2\obj\Debug\net8.0\ref\Punto2.dll
