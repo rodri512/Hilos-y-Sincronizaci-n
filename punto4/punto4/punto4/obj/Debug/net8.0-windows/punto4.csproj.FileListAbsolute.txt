@@ -1,0 +1,15 @@
+C:\Users\Usuario\Desktop\2026\2do cuatri\SO\trabajos practicos\codigo\TP3_Hilos_C#\punto4\punto4\punto4\obj\Debug\net8.0-windows\punto4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\2026\2do cuatri\SO\trabajos practicos\codigo\TP3_Hilos_C#\punto4\punto4\punto4\obj\Debug\net8.0-windows\punto4.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\2026\2do cuatri\SO\trabajos practicos\codigo\TP3_Hilos_C#\punto4\punto4\punto4\obj\Debug\net8.0-windows\punto4.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\2026\2do cuatri\SO\trabajos practicos\codigo\TP3_Hilos_C#\punto4\punto4\punto4\obj\Debug\net8.0-windows\punto4.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\2026\2do cuatri\SO\trabajos practicos\codigo\TP3_Hilos_C#\punto4\punto4\punto4\obj\Debug\net8.0-windows\punto4.sourcelink.json
+C:\Users\Usuario\Desktop\2026\2do cuatri\SO\trabajos practicos\codigo\TP3_Hilos_C#\punto4\punto4\punto4\bin\Debug\net8.0-windows\punto4.exe
+C:\Users\Usuario\Desktop\2026\2do cuatri\SO\trabajos practicos\codigo\TP3_Hilos_C#\punto4\punto4\punto4\bin\Debug\net8.0-windows\punto4.deps.json
+C:\Users\Usuario\Desktop\2026\2do cuatri\SO\trabajos practicos\codigo\TP3_Hilos_C#\punto4\punto4\punto4\bin\Debug\net8.0-windows\punto4.runtimeconfig.json
+C:\Users\Usuario\Desktop\2026\2do cuatri\SO\trabajos practicos\codigo\TP3_Hilos_C#\punto4\punto4\punto4\bin\Debug\net8.0-windows\punto4.dll
+C:\Users\Usuario\Desktop\2026\2do cuatri\SO\trabajos practicos\codigo\TP3_Hilos_C#\punto4\punto4\punto4\bin\Debug\net8.0-windows\punto4.pdb
+C:\Users\Usuario\Desktop\2026\2do cuatri\SO\trabajos practicos\codigo\TP3_Hilos_C#\punto4\punto4\punto4\obj\Debug\net8.0-windows\punto4.dll
+C:\Users\Usuario\Desktop\2026\2do cuatri\SO\trabajos practicos\codigo\TP3_Hilos_C#\punto4\punto4\punto4\obj\Debug\net8.0-windows\refint\punto4.dll
+C:\Users\Usuario\Desktop\2026\2do cuatri\SO\trabajos practicos\codigo\TP3_Hilos_C#\punto4\punto4\punto4\obj\Debug\net8.0-windows\punto4.pdb
+C:\Users\Usuario\Desktop\2026\2do cuatri\SO\trabajos practicos\codigo\TP3_Hilos_C#\punto4\punto4\punto4\obj\Debug\net8.0-windows\punto4.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\2026\2do cuatri\SO\trabajos practicos\codigo\TP3_Hilos_C#\punto4\punto4\punto4\obj\Debug\net8.0-windows\ref\punto4.dll
